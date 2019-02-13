@@ -1,22 +1,22 @@
 defmodule Animate do
   @frames [
-    """               
-                      
-                      
-                      
-            <")       
-            ( >\      
-             " \\     
-                \     
+    """                        
+    The Raven - Edgar Allan Poe
+                               
+                               
+               <")             
+               ( >\            
+                " \\           
+                   \           
     """,
-    """               
-                      
-                      
-                      
-            >")       
-            ( >\      
-             " \\     
-                \     
+    """                        
+    The Raven - Edgar Allan Poe
+                               
+                               
+               >")             
+               ( >\            
+                " \\           
+                   \           
     """,
   ]
 
@@ -41,7 +41,7 @@ defmodule Animate do
       IEx.dont_display_result
       IO.write "#{frame}\n"
       IEx.dont_display_result
-      Process.sleep(100)
+      Process.sleep(150)
     end)
   end
 end
