@@ -1,4 +1,4 @@
-defmodule Animate do
+defmodule Bird do
   @frames [
     """                        
     The Raven - Edgar Allan Poe

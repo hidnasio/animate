@@ -10,11 +10,11 @@ use Mix.Config
 
 # You can configure your application as:
 #
-#     config :animate, key: :value
+#     config :bird, key: :value
 #
 # and access this configuration in your application as:
 #
-#     Application.get_env(:animate, :key)
+#     Application.get_env(:bird, :key)
 #
 # You can also configure a 3rd-party app:
 #
